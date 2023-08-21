@@ -1,0 +1,18 @@
+body{
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+
+}
+.topNavigation{
+	height: 70px;
+	text-align: center;
+	background-color: #FFA500;
+	color: #fff;
+}
+.conttent{
+	flex:1;
+	background-color: #eee;
+	text-align: center;
+	margin-top: 10px;
+}
